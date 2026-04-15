@@ -46,13 +46,13 @@ Somos uma equipe de 8 desenvolvedores que acredita que cuidar da saúde não pre
 
 | Membro | Função | Social |
 | :--- | :--- | :--- |
-| **Amanda** | UX/UI Designer | [Links] |
-| **Bruno B. Silva** | PO / AI | https://www.linkedin.com/in/brunobdev/|
-| **Emelly Laianny** | Designer / Front-end | [Links] |
-| **Felipe Clementino** | Back-end / AI | [Links] |
-| **Gabriel** | Scrum Master / Full Stack | [Link] |
-| **Isabelly** | Marketing / Front-end | [Links] |
-| **Leandro Muniz** | Full Stack | [Links] |
-| **Paulo H. Q** | Financeiro / Full Stack | [Links] |
+| **Amanda** | UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/amanda-scarvalho/) |
+| **Bruno B. Silva** | PO / AI | [LinkedIn](https://www.linkedin.com/in/brunobdev/) |
+| **Emelly Laianny** | Designer / Front-end | [LinkedIn](https://www.linkedin.com/in/emelly-laianny-gomes-441a78305/) |
+| **Felipe Clementino** | Back-end / AI | [LinkedIn](https://www.linkedin.com/in/felipe-clementino/) |
+| **Gabriel** | Scrum Master / Full Stack | [LinkedIn](https://www.linkedin.com/in/gabriel-oldrado/) |
+| **Isabelly** | Marketing / Front-end | [LinkedIn](https://www.linkedin.com/in/isabelly-cassimiro-guedes-84936733b/) |
+| **Leandro Muniz** | Full Stack | [LinkedIn](https://www.linkedin.com/in/leandromunizsantana/) |
+| **Paulo H. Q** | Financeiro / Full Stack | [LinkedIn](https://www.linkedin.com/in/paulo-queiroz-064a522b6/) |
 
 ---
