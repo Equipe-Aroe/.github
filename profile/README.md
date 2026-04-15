@@ -41,7 +41,7 @@ O ecossistema técnico do projeto foi construído com foco em escalabilidade e p
 
 ---
 
-## 👥 Equipe 2
+## 👥 Grupo 2
 Somos uma equipe de 8 desenvolvedores que acredita que cuidar da saúde não precisa ser complicado.
 
 | Membro | Função | Social |
