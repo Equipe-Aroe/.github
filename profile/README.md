@@ -11,6 +11,8 @@ Com a Aroê, garantimos que o cuidado com a saúde chegue ao paciente com máxim
 
 > "Porque o cuidado é único, e nós queremos levar essa precisão até você." 💚 💜 
 
+Conheça mais [linktree] (https://linktr.ee/AroeOficial?utm_source=linktree_profile_share&ltsid=30b262ec-1ab6-481c-b188-ff6e22f6d222)
+
 ---
 ## 🎯 Diretrizes Estratégicas
 
