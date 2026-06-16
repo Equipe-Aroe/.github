@@ -11,7 +11,7 @@ Com a Aroê, garantimos que o cuidado com a saúde chegue ao paciente com máxim
 
 > "Porque o cuidado é único, e nós queremos levar essa precisão até você." 💚 💜 
 
-Conheça mais [linktree] (https://linktr.ee/AroeOficial?utm_source=linktree_profile_share&ltsid=30b262ec-1ab6-481c-b188-ff6e22f6d222)
+Conheça mais [linktree](https://linktr.ee/AroeOficial?utm_source=linktree_profile_share&ltsid=30b262ec-1ab6-481c-b188-ff6e22f6d222)
 
 ---
 ## 🎯 Diretrizes Estratégicas
@@ -48,13 +48,13 @@ Somos uma equipe de 8 desenvolvedores que acredita que cuidar da saúde não pre
 
 | Membro | Função | Social |
 | :--- | :--- | :--- |
-| **Amanda** | UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/amanda-scarvalho/) |
+| **Amanda S. Carvalho** | UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/amanda-scarvalho/) |
 | **Bruno B. Silva** | PO / AI | [LinkedIn](https://www.linkedin.com/in/brunobdev/) |
 | **Emelly Laianny** | Designer / Front-end | [LinkedIn](https://www.linkedin.com/in/emelly-laianny-gomes-441a78305/) |
 | **Felipe Clementino** | Back-end / AI | [LinkedIn](https://www.linkedin.com/in/felipe-clementino/) |
-| **Gabriel** | Scrum Master / Full Stack | [LinkedIn](https://www.linkedin.com/in/gabriel-oldrado/) |
-| **Isabelly** | Marketing / Front-end | [LinkedIn](https://www.linkedin.com/in/isabelly-cassimiro-guedes-84936733b/) |
+| **Gabriel Oldrado** | Scrum Master / Full Stack | [LinkedIn](https://www.linkedin.com/in/gabriel-oldrado/) |
+| **Isabelly Cassimiro** | Marketing / Front-end | [LinkedIn](https://www.linkedin.com/in/isabelly-cassimiro-guedes-84936733b/) |
 | **Leandro Muniz** | Full Stack | [LinkedIn](https://www.linkedin.com/in/leandromunizsantana/) |
-| **Paulo H. Q** | Financeiro / Full Stack | [LinkedIn](https://www.linkedin.com/in/paulo-queiroz-064a522b6/) |
+| **Paulo H. Queiroz** | Financeiro / Full Stack | [LinkedIn](https://www.linkedin.com/in/paulo-queiroz-064a522b6/) |
 
 ---
